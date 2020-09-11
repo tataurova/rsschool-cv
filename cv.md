@@ -31,6 +31,10 @@ I like the field of web development, and would like to grow as a developer and t
 
 **Code examples (last project):** [React project](https://github.com/tataurova/910411-six-cities-4)
 
+**Personal achievements**
+- Web site data scraping utility, data comparator and aggregator (Node.js, Puppeteer)
+- Application for equipment management (frontend: HTML, CSS, JS ES5; backend: Python Flask; Docker container)
+
 **Experience**
 
   | Period              | Place                          | Tasks                                                                                                                                              |
